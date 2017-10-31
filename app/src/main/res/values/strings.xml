@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple-app</string>
+    <string name="submit">Submit</string>
+    <string name="title">Title</string>
+    <string name="comment_id">comment id</string>
+    <string name="address">Address</string>
+    <string name="contacts">Contacts</string>
+    <string name="menu_home">Home</string>
+    <string name="home">Home</string>
+    <string name="developer_abramov_arthur">Developer: Abramov Arthur</string>
+    <string name="skype_arthur_abramov2">Skype : arthur.abramov2</string>
+    <string name="email_rifttech_arthur_gmail_com">Email: rifttech.arthur@gmail.com</string>
+    <string name="comments">Comments</string>
+    <string name="posts">Posts</string>
+</resources>
